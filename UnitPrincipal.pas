@@ -45,7 +45,7 @@ implementation
 
 procedure TFrmCadastroDeLivros.FormCreate(Sender: TObject);
 begin
-     ComboBox1.ItemIndex := 0;
+     ComboBox1.Text := 'Selecione...';
 end;
 
 end.

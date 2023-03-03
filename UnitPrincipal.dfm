@@ -126,7 +126,6 @@ object FrmCadastroDeLivros: TFrmCadastroDeLivros
     Height = 21
     TabOrder = 2
     Items.Strings = (
-      'Select...'
       'Romance'
       'Autoajuda'
       'Autobiografia')
